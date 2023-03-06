@@ -1,6 +1,20 @@
 body{
-  background-color: #040292;
+  background-color: #222;
+  color: white;
 }
+
+.intro{
+  height: 30vh;
+  font-family: 'Rajdhani', sans-serif;;
+}
+.ola{
+  font-size: 1.8rem;
+}
+.sorin{
+  font-size: 2.5rem;
+}
+
+
 /* .header{
   display: flex;
   align-items: center;
